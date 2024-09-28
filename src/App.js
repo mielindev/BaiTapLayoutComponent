@@ -3,7 +3,7 @@ import BaiTapThucHanhLayout from "./BaiTapThucHanhLayout/BaiTapThucHanhLayout";
 
 function App() {
   return (
-    <div className="container">
+    <div>
       <BaiTapThucHanhLayout />
     </div>
   );
